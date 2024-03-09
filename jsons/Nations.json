@@ -12,7 +12,6 @@
 		"favoredReligion": "Arepas Supremas",
 	  
 		"uniqueName": "Arepa Cuisine",
-		"uniqueText": "[+1] Movement <for [Land] units> <in [Hill] tiles> <with [Arepa]>. [-50]% maintenance on road & railroads <with [Arepa]>. [+1 Production] from [Great Improvement] tiles [in all cities] <within [1] tiles of a [Arepa House]>",
 		"uniques": ["[+1] Movement <for [Land] units> <in [Hill] tiles> <with [Arepa]>",
 			"[-50]% maintenance on road & railroads <with [Arepa]>",
 			"[+1 Production] from [Great Improvement] tiles [in all cities] <within [1] tiles of a [Arepa House]>"],
@@ -33,7 +32,6 @@
 		"startBias": ["Hill"],
 	
 		"uniqueName": "Wonderful Theocracy",
-		"uniqueText": "May choose [1] additional [Founder] beliefs when [founding] a religion. May choose [1] additional [Enhancer] beliefs when [enhancing] a religion",
 		"uniques": [ "May choose [1] additional [Founder] beliefs when [founding] a religion",
 	        "May choose [1] additional [Enhancer] beliefs when [enhancing] a religion"
 		],
@@ -52,7 +50,6 @@
 		"preferredVictoryType": "Scientific",
 		
 		"uniqueName": "King of all Bamboo",
-		"uniqueText": "[+1 Culture] from every [Scientist]. Starts with [Honor] adopted. [+3 Science] from each Trade Route",
 		"uniques": ["[+1 Culture] from every [Scientist]","Starts with [Honor] adopted","[+3 Science] from each Trade Route"],
 
 		"cities": ["Bamboodail", "Bambooport", "Walled Community", "Jungle strikes first", "Science best stat", "Defensive Measurements", "Maybe an Airstrip", "Deutscher Stadtname", "Ninth City", "Runninglowonideas", "Still Standing", "Who needs this", "many cities"]
@@ -68,7 +65,6 @@
 		"startBias": ["Coast"],
 		
 		"uniqueName": "Sovereign of the Seven Seas",
-		"uniqueText": "Enables embarkation for land units <starting from the [Ancient era]>. Enables [All] units to enter ocean tiles <starting from the [Ancient era]>. [+1 Production] from every [Fishing Boats]",
 		"uniques": ["Enables embarkation for land units <starting from the [Ancient era]>", "Enables [All] units to enter ocean tiles <starting from the [Ancient era]>","[+1 Production] from every [Fishing Boats]"],
 
 		"cities": ["Penguinville","Chillhaven","Penguino Bay","Frostfjord","Pebblebeach",
@@ -123,7 +119,6 @@
         "innerColor": [9, 46, 107],
 	    
         "uniqueName": "Generations React to Building a Civilization",
-		"uniqueText": "[+1 Culture] [in all cities]",
         "uniques": [ "[+1 Culture] [in all cities]" ],
         "cities": ["Toritown","Ericstate","Brandonii","Mikaelania","Brooklinstead","Tomphelania",
             "Liaia", "Finea","Sharonia","Brittany","Madisonia","Raeland","Anahitanni","Dannyland",
@@ -140,7 +135,6 @@
 		"startBias": ["Forest"],
 
 		"uniqueName": "The Tune of the Leafage",
-		"uniqueText": "[+1 Happiness] [in all cities] <with [1] to [1] neighboring [Forest] tiles>. [+2 Happiness] [in all cities] <with [2] to [3] neighboring [Forest] tiles>. [+3 Happiness] [in all cities] <with [4] to [6] neighboring [Forest] tiles>. [+1 Production] from [Forest] tiles without [Lumber Mill] [in all cities]",
 		"uniques": ["[+1 Happiness] [in all cities] <with [1] to [1] neighboring [Forest] tiles>","[+2 Happiness] [in all cities] <with [2] to [3] neighboring [Forest] tiles>","[+3 Happiness] [in all cities] <with [4] to [6] neighboring [Forest] tiles>",
 			"[+1 Production] from [Forest] tiles without [Lumber Mill] [in all cities]"],
 		"cities": ["Everwood","Verdant Grove","Whispering Pines","Mosswood","Fernhaven","Willowshade","Oakheart","Sunleaf","Briarthorn","Wildroot"]
