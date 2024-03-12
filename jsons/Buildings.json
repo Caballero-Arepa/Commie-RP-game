@@ -263,6 +263,19 @@
 			"Destroyed when the city is captured","Classification"],
 	},
 	{
+		"name": "Expantionist",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia","Automatically built in all cities where it is buildable",
+			"[+1 Production] [Non-occupied] <upon constructing [Monument]> <for [12] turns>",
+			"[-25]% maintenance on road & railroads",
+			"[-10]% unhappiness from the number of cities",
+			"[+2 Gold, +1 Food, +1 Production] from each Trade Route",
+			"[+1 Producton, +1 Culture] from every [Embassy]", //Embassy bonus
+			"Only available <for [Expantionist]> <in cities with a [Palace]> <in cities without a [Classification]>",
+			"Destroyed when the city is captured","Classification"],
+	},
+	{
 		"name": "Isolationist",
 		"cost": 0,
 		"uniques": [
