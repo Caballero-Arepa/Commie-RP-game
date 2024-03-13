@@ -336,6 +336,30 @@
 			"Only available <for [Religious Expantionist]> <in cities with a [Palace]> <in cities without a [Classification]>",
 			"Destroyed when the city is captured","Classification"],
 	},
+	{
+		"name": "Theocracy",
+		"cost": 0,
+		"uniques": [
+			"[+15]% [Production] [in holy cities]",
+			"[+12]% Strength <for [Melee] units> <when above [1] [Happiness]> <when fighting in [your] tiles>",
+			"[+1 Gold] from every [Temple]",
+			"[+25]% of excess happiness converted to [Faith]", //Peaceful bonus happiness
+			"Will not be displayed in Civilopedia","Automatically built in all cities where it is buildable",
+			"Only available <for [Theocracy]> <in cities with a [Palace]> <in cities without a [Classification]>",
+			"Destroyed when the city is captured","Classification"],
+	},
+	{
+		"name": "Holy State",
+		"cost": 0,
+		"uniques": [
+			"[+20]% [Culture] <when not at war>",
+			"City-State Influence recovers at twice the normal rate",
+			"[+1 Gold, +1 Faith] from every [Embassy]", //Embassy bonus
+			"[+1 Faith] from every [Artist]",
+			"Will not be displayed in Civilopedia","Automatically built in all cities where it is buildable",
+			"Only available <for [Holy State]> <in cities with a [Palace]> <in cities without a [Classification]>",
+			"Destroyed when the city is captured","Classification"],
+	},
 	//Unpeacefuls
 	{
 		"name": "Warmonger",
