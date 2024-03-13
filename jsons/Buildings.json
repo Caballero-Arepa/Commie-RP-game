@@ -362,6 +362,19 @@
 	},
 	//Unpeacefuls
 	{
+		"name": "Honor State",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia","Automatically built in all cities where it is buildable",
+			"City-State Influence recovers at twice the normal rate", //CS bonus
+			"[+10]% Production when constructing [{Military} {Land}] units [in all cities] <when not at war>",
+			"[10]% Strength <for [All] units> <when fighting in [Friendly Land] tiles> <while the empire is happy>",
+			"[+1 Happiness] from every [Barracks]",
+			"[+1 Gold, +1 Faith] from every [Embassy]", //Embassy bonus
+			"Only available <for [Honor State]> <in cities with a [Palace]> <in cities without a [Classification]>",
+			"Destroyed when the city is captured","Classification"],
+	},
+	{
 		"name": "Warmonger",
 		"cost": 0,
 		"uniques": [
