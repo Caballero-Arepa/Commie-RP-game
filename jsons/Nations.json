@@ -50,7 +50,7 @@
 		"preferredVictoryType": "Scientific",
 		
 		"uniqueName": "King of all Bamboo",
-		"uniques": ["[+1 Culture] from every [Scientist]","Starts with [Honor] adopted","[+3 Science] from each Trade Route", "Honour State"],
+		"uniques": ["[+1 Culture] from every [Scientist]","Starts with [Honor] adopted","[+3 Science] from each Trade Route", "Honor State"],
 
 		"cities": ["Bamboodail", "Bambooport", "Walled Community", "Jungle strikes first", "Science best stat", "Defensive Measurements", "Maybe an Airstrip", "Deutscher Stadtname", "Ninth City", "Runninglowonideas", "Still Standing", "Who needs this", "many cities"]
   },
