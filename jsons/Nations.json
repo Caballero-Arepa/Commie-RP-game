@@ -4,8 +4,8 @@
 		"leaderName": "Arepa Lord",
 		"adjective": ["Areperro"],
 	  	"style": "Arepino",
-		"outerColor": [74, 64, 58],
-		"innerColor": [255, 192, 105],
+		"outerColor": [80, 37, 20],
+		"innerColor": [238, 215, 181],
 
 		"startBias": ["Mountain"],
 		"preferredVictoryType": "Cultural",
