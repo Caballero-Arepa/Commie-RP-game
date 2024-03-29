@@ -18,7 +18,7 @@
     {
         "name": "Desert Folklore",
         "type": "Pantheon",
-        "uniques": ["[+1 Faith] from every [Desert]"]
+        "uniques": ["[+1 Faith] from every [{Desert} {non-[Hill]} {non-[Flood Plains]}] [in this city]"]
     },
     {
         "name": "Earth Mother",
@@ -319,7 +319,6 @@
         "uniques": ["[+1 Culture] from every [5] global followers [in foreign cities]"]
     },
     ////////////////////////////////////// Enhancer beliefs ///////////////////////////////////////
-  
     {
         "name": "Crusade",
         "type": "Founder",
@@ -383,7 +382,8 @@
     {
         "name": "Missionary Sailors",
         "type": "Enhancer",
-        "uniques": ["[+75]% Natural religion spread [in all coastal cities]"]
+        "uniques": ["[+25]% Natural religion spread [in all coastal cities]",
+        "[+25]% Natural religion spread [in all coastal cities] <after discovering [Compass]>"]
     },
     {
         "name": "Religious Texts",
