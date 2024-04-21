@@ -84,7 +84,7 @@
 
 		"startBias": ["Desert","Coast"],
 		
-		"uniqueName": "Fruit of the Badlands",
+		"uniqueName": "Alvo Opus doctrine",
 		"uniqueText": "[+1 Food] from [Desert] tiles [in all cities] <in tiles without [Flood plains]> <in tiles without [Oasis]>. [+1 Production] [in all cities] <in [Desert] tiles> per era.",
 		"uniques": ["[+1 Food] from [Desert] tiles [in all cities] <in tiles without [Flood plains]> <in tiles without [Oasis]>",
 			   "[+1 Production] [in all cities] <in [Desert] tiles> <starting from the [Classical era]>",
