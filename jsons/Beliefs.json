@@ -16,11 +16,6 @@
         "uniques": ["[+1 Faith] from [Tundra] tiles without [Forest] [in this city]"]
     },
     {
-        "name": "Desert Folklore",
-        "type": "Pantheon",
-        "uniques": ["[+1 Faith] from [{Desert} {non-[Hill]} {non-[Flood Plains]}] tiles [in this city]"]
-    },
-    {
         "name": "Earth Mother",
         "type": "Pantheon",
         "uniques": ["[+1 Faith] from every [Salt]","[+1 Faith] from every [Copper]","[+1 Faith] from every [Iron]","[+1 Faith] from every [Coal]"]

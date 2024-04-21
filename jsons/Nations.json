@@ -94,7 +94,9 @@
 			   "[+1 Production] [in all cities] <in [Desert] tiles> <starting from the [Modern era]>",
 			   "[+1 Production] [in all cities] <in [Desert] tiles> <starting from the [Atomic era]>",
 			   "[+1 Production] [in all cities] <in [Desert] tiles> <starting from the [Information era]>",
-			   "[+1 Production] [in all cities] <in [Desert] tiles> <starting from the [Future era]>", "Expantionist"],
+			   "[+1 Production] [in all cities] <in [Desert] tiles> <starting from the [Future era]>",
+			"Expantionist",
+			"[+10]% Strength <when fighting in [Desert] tiles>", "[+1 Production] from every [Desert] <after founding a Pantheon>"],
 
 		"cities": ["Dragonheart","Caldera","ignis Castellon","Dardraca Crater","Ignatia","Pyropolis",
 					"Scorchtown","Ashenforge","Dragonspire","Infernocrest","Smolderhaven",
