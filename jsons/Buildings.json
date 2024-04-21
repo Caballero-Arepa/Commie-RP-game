@@ -69,7 +69,7 @@
 	{
 		"name": "UB 1", //rename to: 
 		"cost": 0,
-		"uniqueTo": "Imperium of Fire",
+		"uniqueTo": "The Imperium of Fire",
 		"uniques": [
 			"Gain [11]-[15] [Faith]",
 			"Only available <in [Capital] cities>", "Limited to [1] per Civilization",
