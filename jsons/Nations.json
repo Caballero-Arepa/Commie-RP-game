@@ -68,7 +68,8 @@
 		"startBias": ["Coast"],
 		
 		"uniqueName": "Sovereign of the Seven Seas",
-		"uniques": ["Enables embarkation for land units <starting from the [Ancient era]>", "Enables [All] units to enter ocean tiles <starting from the [Ancient era]>","[+1 Production] from every [Fishing Boats]", "Peaceful - Diplomatic"],
+		"uniques": ["Enables embarkation for land units <starting from the [Ancient era]>", "Enables [All] units to enter ocean tiles <starting from the [Ancient era]>","[+1 Production] from every [Fishing Boats]",
+			"Peaceful - Diplomatic"],
 
 		"cities": ["Penguinville","Chillhaven","Penguino Bay","Frostfjord","Pebblebeach",
 				"Blizzard Heights","Flipper Beach","Penguinport","Sandy Shores","Palm Penguin","Antarctic Bay",
