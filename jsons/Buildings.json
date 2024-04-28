@@ -73,23 +73,23 @@
 		"uniques": [
 			"Gain [11]-[15] [Faith]",
 			"Only available <in [Capital] cities>", "Limited to [1] per Civilization",
-			"Unsellable","Automatically built in all cities where it is buildable",]
+			"Unsellable"]
 	},
 	{
 		"name": "UB 2", //rename to: 
 		"cost": 0,
 		"uniqueTo": "Penguinesia",
-		"uniques": [ 
-			"Gain [1119]-[1120] [Gold]",
-			"Only available <in [Capital] cities>", "Limited to [1] per Civilization",
-			"Unsellable","Automatically built in all cities where it is buildable"]
+		"uniques": [
+			"Unbuildable"]
 	},
 	{
 		"name": "UB 3", //rename to: 
 		"cost": 0,
-		"uniqueTo": "Spectator",
+		"uniqueTo": "Arepandia",
 		"uniques": [ 
-			"Unbuildable"]
+			"Gain [238]-[240] [Gold]",
+			"Only available <in [Capital] cities>", "Limited to [1] per Civilization",
+			"Unsellable","Automatically built in all cities where it is buildable"]
 	},
 	{
 		"name": "UB 4", //rename to: 
