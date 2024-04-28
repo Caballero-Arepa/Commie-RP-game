@@ -14,7 +14,8 @@
 		"uniqueName": "Arepa Cuisine",
 		"uniques": ["[+1] Movement <for [Land] units> <in [Hill] tiles> <with [Arepa]>",
 			"[-50]% maintenance on road & railroads <with [Arepa]>",
-			"[+1 Production] from [Great Improvement] tiles [in all cities] <within [1] tiles of a [Arepa House]>", "Expantionist"],
+			"[+1 Production] from [Great Improvement] tiles [in all cities] <within [1] tiles of a [Arepa House]>",
+			"Expantionist"],
 
 		"cities": ["Central Arepa","Aguapanela","Villa Chóclo","Puerto Boyacense","La Paila","Patacón",
 			   "Mogolla","Harinapan","Candelaria","Rellenas","Quesillo","Panela",
