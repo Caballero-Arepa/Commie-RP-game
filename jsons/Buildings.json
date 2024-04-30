@@ -59,10 +59,10 @@
 		"specialistSlots": {"Archiver": 1},
 		"hurryCostModifier": 25,
 		"maintenance": 1,
-		"uniques": ["[+1 Science] per [2] population [in this city]", "+1 Archiver slot (+3 [Science], +3 [Culture], +4 Great Scientist Points)"],
+		"uniques": ["[+1 Science] per [2] population [in this city]", "Comment [+1 Archiver slot (+3 [Science], +3 [Culture], +4 Great Scientist Points)]"],
 		"requiredTech": "Writing",
 		"civilopediaText": [
-			{"text": "A place where the Archiver store their records of the world."},
+			{"text": "Hollow Basements dug beneath ceremonial buildings in the Realm of the Bamboonic Tribe. Originally meant to store food, ever since the invention of the Bamboonic script they were turned into a safe house for important scrolls to protect them from heat, extreme weather conditions and the illiterate public. Traditionally the scrolls are rolled onto a bamboo stick retrieved from the Sprout Reserve, a small jungle region north of Bamboodail reached after a 3 days walk trough the desert or about 5 days through the arid plains. Every year, around 14 men are lost on that journey. Tradition and knowledge therefor exceeds the meaning of individual human life."},
         ]
 	},
 		//New
