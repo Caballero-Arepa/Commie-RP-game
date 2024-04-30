@@ -16,11 +16,6 @@
         "uniques": ["[+1 Faith] from [Tundra] tiles without [Forest] [in this city]"]
     },
     {
-        "name": "Desert Folklore",
-        "type": "Pantheon",
-        "uniques": ["[+1 Faith] from every [Desert]"]
-    },
-    {
         "name": "Earth Mother",
         "type": "Pantheon",
         "uniques": ["[+1 Faith] from every [Salt]","[+1 Faith] from every [Copper]","[+1 Faith] from every [Iron]","[+1 Faith] from every [Coal]"]
@@ -319,7 +314,6 @@
         "uniques": ["[+1 Culture] from every [5] global followers [in foreign cities]"]
     },
     ////////////////////////////////////// Enhancer beliefs ///////////////////////////////////////
-  
     {
         "name": "Crusade",
         "type": "Founder",
@@ -383,7 +377,8 @@
     {
         "name": "Missionary Sailors",
         "type": "Enhancer",
-        "uniques": ["[+75]% Natural religion spread [in all coastal cities]"]
+        "uniques": ["[+25]% Natural religion spread [in all coastal cities]",
+        "[+25]% Natural religion spread [in all coastal cities] <after discovering [Compass]>"]
     },
     {
         "name": "Religious Texts",
