@@ -23,23 +23,34 @@
 			   "Sarapas","Puerto Angú","Arequipe,","Shocolade","Andiná","Desmechado",
 			  ]
   },
-{
-		"name": "Wonderland",
-		"leaderName": "Srijoyanalr",
-	  	"style": "Belias",
-		"adjective": ["Maravillense"],
-		"outerColor": [39,126,205],
-		"innerColor": [255,255,255],
-		"startBias": ["Hill"],
-	
-		"uniqueName": "Wonderful Theocracy",
-		"uniques": [ "May choose [1] additional [Founder] beliefs when [founding] a religion",
-	        	"May choose [1] additional [Enhancer] beliefs when [enhancing] a religion",
-			"Theocracy"
-		],
+	{
+		"name": "The Fast Economists",
+		"leaderName": "Fast Doubloon",
+		"preferredVictoryType": "Scientific",
+		"startBias": ["Coast"],
+		"outerColor": [52, 30, 4],
+		"innerColor": [229, 181, 25],
 
-		"cities": ["Zulia","Wonderfort","Puerto unión","Monolith","Cumbres","Notmaracaibo","Buildercity",]
-  },
+		"uniqueName": "Growth over Force",
+		"uniques": ["[Gold] cost of purchasing items in cities [-15]%",
+		"[+1 Culture] from every [Mint] <after discovering [Economics]>",
+		"[+1 Culture] from every [Market] <after discovering [Economics]>",
+		"[+1 Culture] from every [Bank] <after discovering [Economics]>",
+		"[+1 Culture] from every [Stock Exchange] <after discovering [Economics]>",
+
+		"[+50]% [Gold] [in all cities] <during the [Ancient era]>",
+		"[+25]% [Gold] [in all cities] <during the [Classical era]>",
+		"[+20]% [Gold] [in all cities] <during the [Medieval era]>",
+		"[+15]% [Gold] [in all cities] <during the [Renaissance era]>",
+		"[+10]% [Gold] [in all cities] <during the [Industrial era]>",
+
+		"[+10]% [Gold] from Trade Routes <after adopting [Commerce]>",
+		
+		"Gifts of Gold to City-States generate [+20]% more Influence"
+		
+		"Free Traders"],
+		"cities": ["Doubloon City","Coin city","Free Zone","Baboon City"]
+	},
 {
 		"name": "Bamboo Kingdom",
 		"leaderName": "Bamboolord",
