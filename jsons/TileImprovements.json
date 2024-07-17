@@ -1,4 +1,15 @@
 [
+	{
+		"name": "Sacred Lake",
+		"uniqueTo": "Bamboo Kingdom",
+		"gold": 1,
+		"food": 1,
+		"terrainsCanBeBuiltOn": ["Hill"],
+		"turnsToBuild": 14,
+		"uniques": ["Great Improvement", "[-2 Production]", "[+2 Culture, +2 Faith] for each adjacent [City center]", "[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>",	"Cannot be built on [Hill] tiles <with [1] to [6] neighboring [Sacred Lake] tiles>"],
+		"techRequired": "Construction",
+		"shortcutKey": "M"
+	},
 	// Unique Choices
 	{
 		"name": "UI 1",
