@@ -65,6 +65,18 @@
 			{"text": "Hollow Basements dug beneath ceremonial buildings in the Realm of the Bamboonic Tribe. Originally meant to store food, ever since the invention of the Bamboonic script they were turned into a safe house for important scrolls to protect them from heat, extreme weather conditions and the illiterate public. Traditionally the scrolls are rolled onto a bamboo stick retrieved from the Sprout Reserve, a small jungle region north of Bamboodail reached after a 3 days walk trough the desert or about 5 days through the arid plains. Every year, around 14 men are lost on that journey. Tradition and knowledge therefor exceeds the meaning of individual human life."},
         ]
 	},
+	{
+		"name": "Tinkerer's Depot",
+		"uniqueTo": "The Fast Economists",
+		"replaces": "Observatory",
+		"maintenance": 0,
+		"percentStatBonus": {"science": 50},
+		"uniques": ["Can be built in all cities"],
+		"requiredTech": "Astronomy",
+		"civilopediaText": [
+			{"text": "Dwarven tinkerer often has their own place to tinker and mess around with their invention."},
+        ]
+	},
 		//New
 	{
 		"name": "UB 1", //rename to: 
