@@ -77,6 +77,18 @@
 			{"text": "Dwarven tinkerer often has their own place to tinker and mess around with their invention."},
         ]
 	},
+		{
+			"name": "Public House",
+			"uniqueTo": "The Fast Economists",
+			"replaces": "Temple",
+			"faith": 2,
+			"culture": 1,
+			"requiredBuilding": "Shrine",
+			"maintenance": 3,
+			"hurryCostModifier": 25,
+			"requiredTech": "Philosophy",
+			"uniques": ["Hidden when religion is disabled", "[-10]% Unhappiness from [Population] [in this city]", "Provides [1] [Spiral Pottery]", "Destroyed when the city is captured"]
+		},
 		//New
 	{
 		"name": "UB 1", //rename to: 
