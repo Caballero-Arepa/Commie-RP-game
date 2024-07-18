@@ -47,8 +47,11 @@
 		"[+10]% [Gold] from Trade Routes <after adopting [Commerce]>",
 		
 		"Gifts of Gold to City-States generate [+20]% more Influence",
-		
-		"Expantionist"],
+		// Classification bonus
+			"Retain [+40]% of the happiness from a luxury after the last copy has been traded away",
+			"[+10]% [Gold] [in all cities]",
+			"[Gold] cost of purchasing [Melee] units [-15]%","[Culture] cost of purchasing [Melee] units [-15]%","[Faith] cost of purchasing [Melee] units [-15]%",
+		],
 		"cities": ["Doubloon City","Coin city","Free Zone","Baboon City"]
 	},
 {
