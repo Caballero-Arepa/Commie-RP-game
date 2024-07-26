@@ -37,6 +37,22 @@
 		"attackSound": "nonmetalhit"
 	},
 	//Unique choices
+	
+	{
+		"name": "Mehal Sefari",
+		"unitType": "Gunpowder",
+		"replaces": "Rifleman",
+		"uniqueTo": "Reactorland",
+		"movement": 2,
+		"strength": 34,
+		"cost": 200,
+		"requiredTech": "Rifling",
+		"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Great War Infantry",
+		"promotions": ["Drill I","Home Sweet Home"],
+		"attackSound": "shot"
+	},
+	
 	{
 		"name": "UU 1",
 		"unitType": "Scout",
