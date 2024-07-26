@@ -101,6 +101,19 @@
 			"[+2 Gold] from [Oil] tiles [in this city]", "[+2 Gold] from [Oasis] tiles [in this city]"],
 		"requiredTech": "Currency"
 	},
+	{
+		"name": "Church of Gears",
+		"replaces": "Temple",
+		"uniqueTo": "Penguinesia",
+		"faith": 2,
+		"production": 2,
+		"percentStatBonus": {"faith": 15},
+		"requiredBuilding": "Shrine",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["Hidden when religion is disabled", "Destroyed when the city is captured", "+15% Faith in this city"]
+	},
 		//New
 	{
 		"name": "UB 1", //rename to: 
