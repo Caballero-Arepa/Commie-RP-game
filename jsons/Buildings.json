@@ -143,11 +143,9 @@
 	{
 		"name": "UB 4", //rename to: 
 		"cost": 0,
-		"uniqueTo": "The Imperium of Fire",
+		"uniqueTo": "Spectator",
 		"uniques": [ 
-			"Free [Worker] appears",
-			"Only available <in [Capital] cities>", "Limited to [1] per Civilization",
-			"Unsellable"]
+			"Unbuildable"]
 	},
 	{
 		"name": "UB 5", //rename to: 
