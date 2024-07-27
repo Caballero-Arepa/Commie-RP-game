@@ -37,6 +37,40 @@
 		"attackSound": "nonmetalhit"
 	},
 	//Unique choices
+	
+	{
+		"name": "Mehal Sefari",
+		"unitType": "Gunpowder",
+		"replaces": "Rifleman",
+		"uniqueTo": "Reactorland",
+		"movement": 2,
+		"strength": 34,
+		"cost": 200,
+		"requiredTech": "Rifling",
+		"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Great War Infantry",
+		"promotions": ["Drill I","Home Sweet Home"],
+		"attackSound": "shot"
+	},
+	{
+		"name": "Keshik",
+		"unitType": "Archery",
+		"replaces": "Knight",
+		"uniqueTo": "The Imperium of Fire",
+		"range": 2,
+		"movement": 5,
+		"strength": 15,
+		"rangedStrength": 16,
+		"cost": 120,
+		"requiredTech": "Chivalry",
+		"requiredResource": "Horses",
+		"upgradesTo": "Cavalry",
+		"obsoleteTech": "Military Science",
+		"uniques": ["Can move after attacking","No defensive terrain bonus"],
+		"promotions": ["Great Generals I", "Quick Study"],
+		"attackSound": "arrow"
+	},
+	
 	{
 		"name": "UU 1",
 		"unitType": "Scout",

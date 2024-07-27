@@ -74,7 +74,57 @@
 		"uniques": ["Can be built in all cities"],
 		"requiredTech": "Astronomy",
 		"civilopediaText": [
-			{"text": "Dwarven tinkerer often has their own place to tinker and mess around with their invention."},
+			{"text": "In these Academies the greatest minds talk about how to further increase their wealth and income, bringing new inventions and discoveries to their nation"},
+        ]
+	},
+		{
+			"name": "Public House",
+			"uniqueTo": "The Fast Economists",
+			"replaces": "Temple",
+			"faith": 2,
+			"culture": 1,
+			"requiredBuilding": "Shrine",
+			"maintenance": 3,
+			"hurryCostModifier": 25,
+			"requiredTech": "Philosophy",
+			"uniques": ["Hidden when religion is disabled", "[-10]% Unhappiness from [Population] [in this city]", "Provides [1] [Spiral Pottery]", "Destroyed when the city is captured"]
+		},
+	{
+		"name": "Bazaar",
+		"replaces": "Market",
+		"uniqueTo": "Arepandia",
+		"gold": 2,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 25},
+		"uniques": ["Provides 1 extra copy of each improved luxury resource near this City",
+			"[+2 Gold] from [Oil] tiles [in this city]", "[+2 Gold] from [Oasis] tiles [in this city]"],
+		"requiredTech": "Currency"
+	},
+	{
+		"name": "Church of Gears",
+		"replaces": "Temple",
+		"uniqueTo": "Penguinesia",
+		"faith": 2,
+		"production": 2,
+		"percentStatBonus": {"faith": 15},
+		"requiredBuilding": "Shrine",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["Hidden when religion is disabled", "Destroyed when the city is captured", "+15% Faith in this city"]
+	},
+	{
+		"name": "Ancestor Tree",
+		"uniqueTo": "Sylvanor",
+		"cost": 175,
+		"culture": 1,
+		"faith": 1,
+		"uniques": ["Cannot be purchased", "[+1 Faith, +1 Culture] <in [Capital] cities>",
+					],
+		"requiredTech": "Civil Service",
+		"civilopediaText": [
+			{"text": "A tree sprout from the fallen body of the first ever Sylvans. Ancestor Tree is a sacred site, a rememberance of the ever-changing nature of life."},
         ]
 	},
 		//New
