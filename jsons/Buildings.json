@@ -471,7 +471,7 @@
 		"uniques": [ "Automatically built in all cities where it is buildable",
 			"[+15]% Production when constructing [Military] units [in all cities]", //General Offensive Bonus
 			"[Great General] is earned [+20]% faster", //Also general Bonus
-			"Damage is ignored when determining unit Strength <for [Land] units>",
+			"No damage penalty for wounded units <for [Land] units>",
 			"[+15]% Strength <vs cities> <when attacking> <for [{Melee} {Land}] units>",
 			"Only available <for [Warmonger]> <in cities with a [Palace]> <in cities without a [Classification]>",
 			"Destroyed when the city is captured","Classification"],
