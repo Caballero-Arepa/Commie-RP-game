@@ -114,6 +114,19 @@
 		"requiredTech": "Philosophy",
 		"uniques": ["Hidden when religion is disabled", "Destroyed when the city is captured", "+15% Faith in this city"]
 	},
+	{
+		"name": "Ancestor Tree",
+		"uniqueTo": "Sylvanor",
+		"cost": 175,
+		"culture": 1,
+		"faith": 1,
+		"uniques": ["Cannot be purchased", "[+1 Faith, +1 Culture] <in [Capital] cities>",
+					],
+		"requiredTech": "Civil Service",
+		"civilopediaText": [
+			{"text": "A tree sprout from the fallen body of the first ever Sylvans. Ancestor Tree is a sacred site, a rememberance of the ever-changing nature of life."},
+        ]
+	},
 		//New
 	{
 		"name": "UB 1", //rename to: 
