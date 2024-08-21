@@ -156,9 +156,15 @@
 	{
 		"name": "UB 4", //rename to: 
 		"cost": 0,
-		"uniqueTo": "Spectator",
+		"uniqueTo": "The Fast Economists",
 		"uniques": [ 
-			"Unbuildable"]
+	                "Remove [Tradition] and refund [100]% of its cost",
+	                "Remove [Aristocracy] and refund [100]% of its cost",
+	                "Remove [Honor] and refund [100]% of its cost",
+	                "Remove [Piety] and refund [100]% of its cost",
+	                "Remove [Organized Religion] and refund [100]% of its cost",
+			"Only available <in [Capital] cities>", "Limited to [1] per Civilization",
+			"Unsellable","Automatically built in all cities where it is buildable"]
 	},
 	{
 		"name": "UB 5", //rename to: 
