@@ -5,7 +5,7 @@
 		"adjective": ["Areperro"],
 	  	"style": "Arepino",
 		"outerColor": [238, 215, 181],
-		"innerColor": [80, 37, 20],
+		"innerColor": [190, 2, 35],
 
 		"startBias": ["Mountain"],
 		"preferredVictoryType": "Cultural",
@@ -13,8 +13,7 @@
 	  
 		"uniqueName": "Arepa Cuisine",
 		"uniques": ["[+1] Movement <for [Land] units> <in [Hill] tiles> <with [Arepa]>",
-			"[-50]% maintenance on road & railroads <with [Arepa]>",
-			"[+1 Production] from [Great Improvement] tiles [in all cities] <within [1] tiles of a [Arepa House]>",
+			"[+5] HP when healing <within [2] tiles of a [Arepa House]>",
 			"Expantionist"],
 
 		"cities": ["Central Arepa","Aguapanela","Villa Chóclo","Puerto Boyacense","La Paila","Patacón",
