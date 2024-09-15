@@ -5,7 +5,7 @@
 		"adjective": ["Areperro"],
 	  	"style": "Arepino",
 		"outerColor": [238, 215, 181],
-		"innerColor": [190, 2, 35],
+		"innerColor": [119, 2, 23],
 
 		"startBias": ["Mountain"],
 		"preferredVictoryType": "Cultural",
