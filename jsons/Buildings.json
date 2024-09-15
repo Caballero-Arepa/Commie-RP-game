@@ -127,6 +127,35 @@
 			{"text": "A tree sprout from the fallen body of the first ever Sylvans. Ancestor Tree is a sacred site, a rememberance of the ever-changing nature of life."},
         ]
 	},
+	{
+		"name": "The Panama Canal",
+		"isWonder": true,
+		"requiredTech": "Steam Power",
+		"cost": 1200,
+		"uniqueTo": "The Fast Economists",
+		"uniques": ["[+1 Science] from each Trade Route","[+1 Production, +1 Science, +4 Gold] from every [Panama Canal]",
+			"[+1 Production, +1 Gold, +1 Food] from [Water] tiles [in all cities] <in cities with a [Harbor]>",
+			"Creates a [Panama Canal] improvement on a specific tile"],
+		"greatPersonPoints": {"Great Engineer": 2},
+		"civilopediaText": [
+			{
+				"text": "."
+			}
+		]
+	},
+	{
+		"name": "Posha",
+		"uniqueTo": "Arepandia",
+		"replaces": "Stable",
+		"maintenance": 1,
+		"requiredNearbyImprovedResources": ["Horses","Sheep","Cattle"],
+		"hurryCostModifier": 25,
+		"uniques": ["[+15]% Production when constructing [Mounted] units [in this city]", "[+1 Food] from [Plains] tiles [in this city]",
+			"[+1 Production] from [Cattle] tiles [in this city]",
+			"[+1 Production] from [Horses] tiles [in this city]",
+			"[+1 Production] from [Sheep] tiles [in this city]"],
+		"requiredTech": "Horseback Riding"
+	},
 		//New
 	{
 		"name": "UB 1", //rename to: 
