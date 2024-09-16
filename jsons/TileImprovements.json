@@ -10,6 +10,21 @@
 		"techRequired": "Construction",
 		"shortcutKey": "M"
 	},
+		 {
+        "name": "Skynet",
+        "uniqueTo": "Penguinesia",
+        "terrainsCanBeBuiltOn": ["Coast","Ocean"]
+        "food": 1,
+        "culture": 1,
+        "turnsToBuild": 5,
+        "techRequired": "Optics",
+        "uniques": [
+            "[+1 Production] <after discovering [Navigation]>",
+            "[+1 Culture] <after discovering [Flight]>",
+            "Cannot be built on [resource] tiles",
+            "Pillaging this improvement yields approximately [+20 Gold]"
+        ]
+    },
 	// Unique Choices
 	{
 		"name": "UI 1",
