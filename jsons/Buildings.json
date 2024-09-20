@@ -165,6 +165,19 @@
 		"No [Gold] from Water tiles"
 	]
 	},
+	{
+		"name": "Star Gazing Spot",
+		"replaces": "Amphitheater",
+		"uniqueTo": "Bamboo Kingdom",
+        	"culture": 2,
+        	"happiness": 2,
+        	"specialistSlots": {"Artist": 1},
+        	"requiredBuilding": "Monument",
+       		"maintenance": 1,
+        	"hurryCostModifier": 25,
+        	"uniques": ["[+2 Science] <after discovering [Astronomy]>","Destroyed when the city is captured"],
+        	"requiredTech": "Drama and Poetry"
+  	},
 		//New
 	{
 		"name": "UB 1", //rename to: 
