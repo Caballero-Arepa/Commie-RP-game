@@ -220,9 +220,11 @@
 	{
 		"name": "UB 5", //rename to: 
 		"cost": 0,
-		"uniqueTo": "Spectator",
+		"uniqueTo": "Penguinesia",
 		"uniques": [ 
-			"Unbuildable"]
+			"Gain [320] [Faith]",
+			"Only available <in [Capital] cities>", "Limited to [1] per Civilization",
+			"Unsellable","Automatically built in all cities where it is buildable"]
 	},
 	{
 		"name": "UB 6", //rename to: 
