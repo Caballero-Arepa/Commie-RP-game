@@ -386,6 +386,7 @@
 		"unitType": "Civilian Water",
 		"movement": 4,
 		"cost": 30,
+		"hurryCostModifier": -100,
 		"requiredTech": "Sailing",
 		"uniques": ["Cannot enter ocean tiles <before discovering [Astronomy]>", "May create improvements on water resources",
             "Uncapturable", "Automation is a primary action","Can build [Water] improvements on tiles","Can move immediately once bought"]
