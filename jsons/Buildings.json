@@ -430,7 +430,7 @@
 			"[-10]% unhappiness from the number of cities",
 			"[+2 Gold, +1 Food, +1 Production] from each Trade Route",
 			"[+1 Producton, +1 Culture] from every [Embassy]", //Embassy bonus
-			"Only available <for [Expantionist]> <in cities with a [Palace]> <in cities without a [Classification]>",
+			"Only available <for [Expantionist] Civilizations> <in cities with a [Palace]> <in cities without a [Classification]>",
 			"Destroyed when the city is captured","Classification"],
 	},
 	{
@@ -440,7 +440,7 @@
 			"[+10]% [Science] [in capital]",
 			"[+10]% [Culture] [in all cities]",
 			"Gain Access to Research Funding instead of Research Agreements","Science gained from research agreements [-100]%",
-			"Only available <for [Isolationist]> <in cities with a [Palace]> <in cities without a [Classification]>",
+			"Only available <for [Isolationist] Civilizations> <in cities with a [Palace]> <in cities without a [Classification]>",
 			"Destroyed when the city is captured","Classification"],
 	},
 	{
@@ -462,7 +462,7 @@
 			"Production to [Science] conversion in cities changed by [+25]%",
 			"[+1 Science, +1 Happiness] from every [Embassy]", //Embassy bonus
 			"[+25]% of excess happiness converted to [Science]", //Peaceful bonus happiness
-			"Only available <for [Peaceful - Scientific]> <in cities with a [Palace]> <in cities without a [Classification]>",
+			"Only available <for [Peaceful - Scientific] Civilizations> <in cities with a [Palace]> <in cities without a [Classification]>",
 			"Destroyed when the city is captured","Classification"],
 	},
 	{
@@ -473,7 +473,7 @@
 			"Resting point for Influence with City-States is increased by [15]",
 			"[+1 Gold, +1 Culture, +1 Happiness] from every [Embassy]", //Embassy bonus
 			"[+25]% of excess happiness converted to [Gold]", //Peaceful bonus happiness
-			"Only available <for [Peaceful - Diplomatic]> <in cities with a [Palace]> <in cities without a [Classification]>",
+			"Only available <for [Peaceful - Diplomatic] Civilizations> <in cities with a [Palace]> <in cities without a [Classification]>",
 			"Destroyed when the city is captured","Classification"],
 	},
 	//Religious
@@ -521,7 +521,7 @@
 			"[10]% Strength <for [All] units> <when fighting in [Friendly Land] tiles> <while the empire is happy>",
 			"[+1 Happiness] from every [Barracks]",
 			"[+1 Gold, +1 Faith] from every [Embassy]", //Embassy bonus
-			"Only available <for [Honor State]> <in cities with a [Palace]> <in cities without a [Classification]>",
+			"Only available <for [Honor State] Civilizations> <in cities with a [Palace]> <in cities without a [Classification]>",
 			"Destroyed when the city is captured","Classification"],
 	},
 	{
