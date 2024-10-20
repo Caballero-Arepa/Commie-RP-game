@@ -384,7 +384,7 @@
 		"replaces": "Work Boats",
 		"uniqueTo": "Penguinesia",
 		"unitType": "Civilian Water",
-		"movement": 8,
+		"movement": 12,
 		"cost": 30,
 		"hurryCostModifier": -100,
 		"requiredTech": "Sailing",
