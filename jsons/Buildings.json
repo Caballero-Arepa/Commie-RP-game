@@ -178,6 +178,18 @@
         	"uniques": ["[+2 Science] <after discovering [Astronomy]>","Destroyed when the city is captured"],
         	"requiredTech": "Drama and Poetry"
   	},
+	{
+		"name": "Geothermal Plant",
+		"uniqueTo": "Sylvanor",
+	},
+	{
+		"name": "The Panama Canal",
+		"uniqueTo": "The Fast Economists",
+	},
+	{
+		"name": "Coffee Axis",
+		"uniqueTo": "Arepandia",
+	},
 		//New
 	{
 		"name": "UB 1", //rename to: 
