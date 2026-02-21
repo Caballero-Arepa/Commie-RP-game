@@ -186,6 +186,7 @@
 		"specialistSlots": {"Engineer": 1},
 		"production": 8,
 		"maintenance": 3,
+		"uniques": ["Only available <after turn number [160]>"]
 		"requiredTech": "Electricity"
 	},
 	{
