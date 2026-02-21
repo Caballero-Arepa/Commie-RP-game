@@ -180,7 +180,13 @@
   	},
 	{
 		"name": "Geothermal Plant",
+		"replaces": "Hydro Plant",
 		"uniqueTo": "Sylvanor",
+		"hurryCostModifier": 0,
+		"specialistSlots": {"Engineer": 1},
+		"production": 8,
+		"maintenance": 3,
+		"requiredTech": "Electricity"
 	},
 	{
 		"name": "The Panama Canal",
