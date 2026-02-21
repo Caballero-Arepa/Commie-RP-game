@@ -185,11 +185,38 @@
 	{
 		"name": "The Panama Canal",
 		"uniqueTo": "The Fast Economists",
+		"isWonder": true,
+		"requiredTech": "Steam Power",
+		"cost": 1200,
+		"uniques": ["Only available <after turn number [160]>",
+			"[+1 Science] from each Trade Route","[+1 Production, +1 Science, +4 Gold] from every [Panama Canal]",
+			"[+1 Production, +1 Gold, +1 Food] from [Water] tiles [in all cities] <in cities with a [Harbor]>",
+			"Creates a [Panama Canal] improvement on a specific tile",],
+		"greatPersonPoints": {"Great Engineer": 2},
+		"civilopediaText": [
+			{
+				"text": "Arguably the most important canals on the planet, located at the isthmus of Panama, this impressive works manage to transport ships from ocean to ocean, elevating them over 20 meters and then bringing them down to the other side, saving you from 10,000 miles of sea travel."
+			}
+		]
 	},
-	{
+		{
 		"name": "Coffee Axis",
+		"replaces": "Windmill",
+		"requiredTech": "Economics",
+		"maintenance": 2,
 		"uniqueTo": "Arepandia",
-	},
+		"uniques": ["Only available <after turn number [160]>",
+			"Creates a [Coffee Hacienda] improvement on a specific tile",
+			    "+1 Coffee from Coffee Hacienda",
+			    "[+1 Production, +1 Culture, +1 Gold] from [Coffee Hacienda] tiles [in this city]",
+			    "The Hacienda Cannot be build on Desert, Tundra nor Snow, only at Grassland/Plains Hills",
+			    "Limited to [4] per Civilization","Destroyed when the city is captured","Unsellable"],
+		"civilopediaText": [
+			{
+				"text": "Located in the mountains, the long-lasting culture of Coffee plantation has made the people there experts on the matter. Here is where the magic happens, where Colombia gets the best quality of Coffee in the world."
+			}
+		]
+    },
 		//New
 	{
 		"name": "UB 1", //rename to: 
