@@ -186,7 +186,6 @@
 		"specialistSlots": {"Engineer": 1},
 		"production": 8,
 		"maintenance": 3,
-		"uniques": ["Only available <after turn number [160]>"]
 		"requiredTech": "Electricity"
 	},
 	{
@@ -195,7 +194,7 @@
 		"isWonder": true,
 		"requiredTech": "Steam Power",
 		"cost": 1200,
-		"uniques": ["Only available <after turn number [160]>",
+		"uniques": [
 			"[+1 Science] from each Trade Route","[+1 Production, +1 Science, +4 Gold] from every [Panama Canal]",
 			"[+1 Production, +1 Gold, +1 Food] from [Water] tiles [in all cities] <in cities with a [Harbor]>",
 			"Creates a [Panama Canal] improvement on a specific tile",],
@@ -212,7 +211,7 @@
 		"requiredTech": "Economics",
 		"maintenance": 2,
 		"uniqueTo": "Arepandia",
-		"uniques": ["Only available <after turn number [160]>",
+		"uniques": [
 			"Creates a [Coffee Hacienda] improvement on a specific tile",
 			    "+1 Coffee from Coffee Hacienda",
 			    "[+1 Production, +1 Culture, +1 Gold] from [Coffee Hacienda] tiles [in this city]",
@@ -224,6 +223,21 @@
 			}
 		]
     },
+	{
+		"name": "Spirify",
+		"uniqueTo": "The Imperium of Fire",
+		"replaces": "Courthouse",
+		"maintenance": 4,
+		"cost": 80,
+		"happiness": 1,
+		"hurryCostModifier": 50,
+		"uniques": ["Removes extra unhappiness from annexed cities",
+			"[-10]% Unhappiness from [Population] [in this city]",
+			"Comment [Can be bought for 150 [Faith]]",
+			"Can only be built <in [Annexed] cities>"
+			],
+		"requiredTech": "Mathematics"
+	},
 		//New
 	{
 		"name": "UB 1", //rename to: 
