@@ -39,6 +39,16 @@
 				"Cannot be built on [Luxury resource] tiles",
 				"Does not need removal of [Jungle]"]
 	},
+	{
+		"name": "Coffee Hacienda",
+		"uniqueTo": "Arepandia",
+		"terrainsCanBeBuiltOn": ["Hill"],
+		"uniques": ["Provides [1] [Coffee]",
+			"Cannot be built on [Tundra] tiles","Cannot be built on [Snow] tiles","Cannot be built on [Desert] tiles","Does not need removal of [Jungle]",
+			"Great Improvement","Will not be displayed in Civilopedia",
+			"Pillaging this improvement yields approximately [+57 Gold]",
+		]
+	},
 	// Unique Choices
 	{
 		"name": "UI 1",
