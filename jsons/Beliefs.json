@@ -317,7 +317,7 @@
     {
         "name": "Crusade",
         "type": "Founder",
-        "uniques": ["Gain [0]-[50] [Faith] <upon declaring war with a major Civilization>","Gain [20]-[100] [Culture] <upon declaring war with a major Civilization>"]
+        "uniques": ["Gain [0]-[50] [Faith] <upon declaring war on [Major] Civilizations>","Gain [20]-[100] [Culture] <upon declaring war on [Major] Civilizations>"]
     },
     {
         "name": "Defender of the Faith",
