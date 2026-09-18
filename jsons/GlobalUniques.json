@@ -1,6 +1,9 @@
 {
 	"name": "Global uniques",
 	"uniques": [
-		"Enables Open Borders agreements"
+		"Enables Open Borders agreements",
+		"[+3 Gold, +2 Production] from [Suez Canal Construction Site] tiles [in all cities]",
+		"Double movement in [Suez Canal Construction Site]",
+		"[+2 Gold, +4 Production] from [Panama Canal Construction Site] tiles [in all cities]",
 	]
 }
