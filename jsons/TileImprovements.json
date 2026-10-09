@@ -49,6 +49,13 @@
 			"Pillaging this improvement yields approximately [+57 Gold]",
 		]
 	},
+	{
+		"name": "Dirt Canal Construction Site",
+		"terrainsCanBeBuiltOn": ["Coast"],
+		"uniques": [
+			"Turn this tile into a [Plains] tile",
+			"Cannot be built on [Hill] tiles","Can only be built on [Coastal] tiles"]
+	},
 	// Unique Choices
 	{
 		"name": "UI 1",
