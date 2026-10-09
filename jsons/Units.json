@@ -52,6 +52,17 @@
 		"promotions": ["Indirect Fire"],
 		"attackSound": "artillery"
 	},
+	{
+		"name": "Dirt Canal UnDigger",
+		"uniqueTo": "The Imperium of Fire",
+		"unitType": "Civilian",
+		"movement": 2,
+		"requiredTech": "Physics",
+		"obsoleteTech": "Steam Power",
+		"uniques": [
+			"Can instantly construct a [Dirt] improvement <once> <after which this unit is consumed>"],
+		"cost": 1
+	},
 	
 	//Unique choices
 	
